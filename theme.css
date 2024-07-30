@@ -1123,7 +1123,7 @@ a[data-role="button"] {
   width: 100%;
   height: 100%;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("https://cdn.jsdelivr.net/gh/anonymoustoptv/jellyfin-themes@9bb13fca53997e5a17234fdce4ef8b8dbe1862df/pexels-codioful-7130470.jpg");
+    url("https://github.com/anonymoustoptv/jellyfin-themes/blob/9b1d6d25aeee628499b27553c435d8cc7c8a5496/pexels-codioful-7130470.jpg");
   background-position: top left;
   background-size: cover;
   background-attachment: fixed;
