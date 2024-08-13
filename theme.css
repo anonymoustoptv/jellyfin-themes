@@ -1131,7 +1131,7 @@ a[data-role="button"] {
   z-index: 2;
 }
 #loginPage h1::after {
-  content: "🔥 TechFlix 🔥";
+  content: "🔥 NextPlay 🔥";
   font-size: 30px;
 }
 #loginPage h1 {
